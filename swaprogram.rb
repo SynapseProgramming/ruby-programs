@@ -14,3 +14,4 @@ Other::Wordz.each do |key,value|
 end
 
 puts text
+    
